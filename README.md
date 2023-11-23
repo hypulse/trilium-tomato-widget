@@ -1,4 +1,4 @@
-# 🍅TomatoWidget
+# 🍅Tomato Widget
 
 This is a widget for [Trilium Notes](https://github.com/zadam/trilium) that displays a tomato timer. Inspired by [Tomato Timer Widget](https://github.com/Nriver/tomato-timer-widget), and [Pomofocus](https://pomofocus.io).
 
@@ -16,7 +16,7 @@ The integration with Trilium is minimal, mostly relying on the vanilla JavaScrip
 
 ## Installation
 
-1. Download the `tomato-widget.zip` file from the [latest release](https://github.com/hypulse/trilium-tomato-widget/releases).
+1. Download the `TomatoWidget.zip` file from the [releases page](https://github.com/hypulse/trilium-tomato-widget/releases).
 2. In Trilium, right click on the node you want to add the widget to, and import the zip file. Uncheck the `Safe Import` option.
 3. Refresh the page.
 
